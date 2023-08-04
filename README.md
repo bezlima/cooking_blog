@@ -7,7 +7,7 @@
 Clone o projeto
 
 ```bash
-  git clone url
+  git clone https://github.com/bezlima/cooking_blog.git
 ```
 Entre na pasta
 ```bash
