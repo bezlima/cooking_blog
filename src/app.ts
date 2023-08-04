@@ -12,7 +12,7 @@ app.use(postRoute)
 
 
 app.get('/', async (req:Request, res:Response) => {
-    res.status(200).send('aqui')
+    res.status(200).send('http://localhost:${PORT}/')
 })
 
 app.listen(PORT, () => console.log(
